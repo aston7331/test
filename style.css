@@ -68,7 +68,7 @@ ul{
     flex-wrap: wrap;
 }
 .heading {
-    padding: 12px 0px;
+    padding: 10px 0px;
 }
 .info{
     width: 35%;
@@ -132,11 +132,11 @@ span.para {
     margin: 15px 5px;
 }
 .dot {
-    width: 3px;
-    border-top: 3px solid black;
+    width: 4px;
+    border-top: 4px solid black;
     margin: 3px;
     display: inline-block;
-    border-radius: 2px;
+    border-radius: 4px;
 }
 @media screen and (max-width:1000px){
     .head {
